@@ -1,1 +1,1 @@
-This is the third test file.
+This is the third test file. And now I have made some changes.
